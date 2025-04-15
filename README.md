@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+579fe1183178475.653aa8931b193.gif
+
 👋 Hi, I’m Harsh from Delhi (India)<br>👨‍💻 I'm a Data Analyst.<br>🤝🏻 I’m always open to work on collaborative projects<br>💼 I've more than 1200+ hours of coding experience<br>⚡ Fun fact : Code never lies, comments sometimes do.😄
 
 
