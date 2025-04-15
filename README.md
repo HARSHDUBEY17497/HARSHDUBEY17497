@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F183178475%2FCoding&psig=AOvVaw1mOcJlf7MmwsvIG_yOvQVW&ust=1744833236511000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCpvLvo2owDFQAAAAAdAAAAABAJ
-
 👋 Hi, I’m Harsh from Delhi (India)<br>👨‍💻 I'm a Data Analyst.<br>🤝🏻 I’m always open to work on collaborative projects<br>💼 I've more than 1200+ hours of coding experience<br>⚡ Fun fact : Code never lies, comments sometimes do.😄
 
 
